@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+Welcome to my humble abode in the Digital World... There are 10 types of people in the world, Those who get Binary and those who don't.
 
 ## :computer: Fields I like to learn
 * Backend Programming
