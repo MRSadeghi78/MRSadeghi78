@@ -36,8 +36,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  ```
  
 ## Current Works
- * Studying as a student at the university (and also being TA in some courses)
- * Learning new things as an intern in [Star Academi](https://github.com/Star-Academy)
+ * Studying Computer Science at the University of Oulu
  
 ## Contact Me
   - [email](mohammadrezasadeqi161@gmail.com)
