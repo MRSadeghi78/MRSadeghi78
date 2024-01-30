@@ -4,13 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-There are 10 types of people in the world, those who get Binary and those who don't.
-
-## :computer: Fields I like to learn
-* Backend Programming
-* Machine Learning
-* Data Analysis
-* Anything Related to Algorithms!
+Welcome to my house in the digital world! There are 10 types of people in the world, those who get Binary and those who don't.
 
 
 ## Programming Languages and platforms
@@ -55,7 +49,7 @@ There are 10 types of people in the world, those who get Binary and those who do
 	user = 'Mohammadreza Sadeghi'
 	current_edu = "Master's in Computer Science and Engineering - University of Oulu"
 	hobbies = [
-				'Watching Series (Mostly Animes)',
+				'Watching Series',
 				'Gaming',
 				'Reading Novels',
 				'Being up all Night chasing that ONE BUG...'
@@ -65,9 +59,8 @@ There are 10 types of people in the world, those who get Binary and those who do
 		return Oulu_Finland()
     
  ```
- 
-## Current Works
- * Studying Computer Science at the University of Oulu
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSadeghi78&layout=compact&theme=radical" />
  
 ## Contact Me
   - [email](mohammadreza.sadeghi@student.oulu.fi)
