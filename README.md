@@ -60,7 +60,7 @@ There are 10 types of people in the world, those who get Binary and those who do
     
  ```
 
-<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSadeghi78&layout=compact&theme=radical" />
+<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSadeghi78&layout=compact&theme=radical" />
  
 ## Contact Me
   - [email](mohammadreza.sadeghi@student.oulu.fi)
